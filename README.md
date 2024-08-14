@@ -5,6 +5,6 @@ Dalam belajar github ini saya sudah mempelajari
 + Fork
 + Branch
 
-Disini saya sudah lumayan mengerti cara menggunakan github ini dengan bikin repositori baru
-Membuat cloning dan fork
+Disini saya sudah lumayan mengerti cara menggunakan github ini dengan bikin repositori baru <br>
+Membuat cloning dan fork <br>
 Menggabungkan sebuah repo yang terpisah dengan branch
