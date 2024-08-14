@@ -10,4 +10,4 @@ Membuat cloning dan fork <br>
 Menggabungkan sebuah repo yang terpisah dengan branch
 <br>
 Melakukan code reviews
-
+Sedang melakukan tambahan yang diminta 
