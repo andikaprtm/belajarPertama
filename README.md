@@ -9,5 +9,5 @@ Disini saya sudah lumayan mengerti cara menggunakan github ini dengan bikin repo
 Membuat cloning dan fork <br>
 Menggabungkan sebuah repo yang terpisah dengan branch
 <br>
-Melakukan code reviews
+Melakukan code reviews <br>
 Sedang melakukan tambahan yang diminta 
